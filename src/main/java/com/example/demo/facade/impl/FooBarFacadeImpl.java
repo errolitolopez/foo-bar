@@ -7,7 +7,7 @@ import com.example.demo.domain.rsp.Response;
 import com.example.demo.domain.rsp.foobar.FooBarRsp;
 import com.example.demo.facade.FooBarFacade;
 import com.example.demo.service.FooBarService;
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 
 @Service

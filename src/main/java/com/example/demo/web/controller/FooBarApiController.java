@@ -6,7 +6,7 @@ import com.example.demo.domain.rsp.Paged;
 import com.example.demo.domain.rsp.Response;
 import com.example.demo.domain.rsp.foobar.FooBarRsp;
 import com.example.demo.facade.FooBarFacade;
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
